@@ -51,11 +51,12 @@ centrali błąd się kasuje.
 ![](https://github.com/PawZar/TM-AVR-STM-LAB/blob/main/Foto/board1.png)
 ![](https://github.com/PawZar/TM-AVR-STM-LAB/blob/main/Foto/board2.png)
 
-## Zdjęcia wykonanego układu oraz filmik prezentacyjny:
+## Zdjęcia wykonanego układu:
 
-![](https://github.com/PawZar/TM-AVR-STM-LAB/blob/main/Foto/2.png)
-![](https://github.com/PawZar/TM-AVR-STM-LAB/blob/main/Foto/3.png)
-![](https://github.com/PawZar/TM-AVR-STM-LAB/blob/main/Foto/4.png)
-![](https://github.com/PawZar/TM-AVR-STM-LAB/blob/main/Foto/5.png)
-![](https://github.com/PawZar/TM-AVR-STM-LAB/blob/main/Foto/6.png)
-![](https://github.com/PawZar/TM-AVR-STM-LAB/blob/main/Foto/IMG_4203.MOV)
+![](https://github.com/PawZar/TM-AVR-STM-LAB/blob/main/Foto/2.jpg)
+![](https://github.com/PawZar/TM-AVR-STM-LAB/blob/main/Foto/3.jpg)
+![](https://github.com/PawZar/TM-AVR-STM-LAB/blob/main/Foto/4.jpg)
+![](https://github.com/PawZar/TM-AVR-STM-LAB/blob/main/Foto/5.jpg)
+![](https://github.com/PawZar/TM-AVR-STM-LAB/blob/main/Foto/6.jpg)
+
+
