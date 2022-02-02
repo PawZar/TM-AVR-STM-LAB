@@ -1,0 +1,42 @@
+Partlist
+
+Exported from alarm1.sch at 2021-03-21 15:37:58
+
+EAGLE Version 6.3.0 Copyright (c) 1988-2012 CadSoft
+
+Assembly variant: 
+
+Part     Value           Device          Package          Library                        Sheet
+
+1        DTSM-6          DTSM-6          DTSM-6           switch-tact                    1
+2        DTSM-6          DTSM-6          DTSM-6           switch-tact                    1
+3        DTSM-6          DTSM-6          DTSM-6           switch-tact                    1
+4        DTSM-6          DTSM-6          DTSM-6           switch-tact                    1
+C1       100uF typeE     CPOL-EUE        PANASONIC_E      resistor                       1
+C2       47uF typeC      CPOL-EUC        PANASONIC_C      resistor                       1
+C3       100nF           C-EUC1206       C1206            resistor                       1
+C4       22pF            C-EUC1206       C1206            resistor                       1
+C5       22pF            C-EUC1206       C1206            resistor                       1
+D1       CGRM4001-G      CGRM4001-G      SOD-123_MINI-SMA diode                          1
+ESC      DTSM-6          DTSM-6          DTSM-6           switch-tact                    1
+G_LED                    LEDCHIPLED_1206 CHIPLED_1206     led                            1
+IC1      MEGA32-A        MEGA32-A        TQFP44           atmel                          1
+K1       G6K-2F-Y        G6K-2F-Y        G6K-2F-Y         relay                          1
+LM78M05  7805DT          7805DT          TO252            linear                         1
+OK       DTSM-6          DTSM-6          DTSM-6           switch-tact                    1
+PIN1                     SINGLE1X20      SINGLE1X20       con-pinheaderSMD2,54(gold_pin) 1
+PIN2                     2X3_GOLDPIN     GOLD2X3          con-pinheaderSMD2,54(gold_pin) 1
+Q2       BC848ALT1SMD    BC848ALT1SMD    SOT23            transistor-npn                 1
+Q3                       CRYSTALHC49UP   HC49UP           crystal                        1
+R1       220             R-EU_R1206      R1206            resistor                       1
+R2                       R-TRIMM3314J    RTRIM3314J       resistor                       1
+R3       220             R-EU_R1206      R1206            resistor                       1
+R4       220             R-EU_R1206      R1206            resistor                       1
+R6       10k 2010        R-EU_R2010      R2010            resistor                       1
+R_LED                    LEDCHIPLED_1206 CHIPLED_1206     led                            1
+U$1      GOLDPIN_SMD_1X3 GOLDPIN_SMD_1X3 GOLDPINSMD1X3    con-pinheaderSMD2,54-1x4       1
+U$2      GOLDPIN_SMD_1X3 GOLDPIN_SMD_1X3 GOLDPINSMD1X3    con-pinheaderSMD2,54-1x4       1
+U$3      GOLDPIN_SMD_1X3 GOLDPIN_SMD_1X3 GOLDPINSMD1X3    con-pinheaderSMD2,54-1x4       1
+U$4      GOLDPIN_SMD_1X2 GOLDPIN_SMD_1X2 GOLDPINSMD1X2    con-pinheaderSMD2,54-1x4       1
+X2       87438-02        87438-02        87438-02         con-molex                      1
+Y_LED                    LEDCHIPLED_1206 CHIPLED_1206     led                            1
